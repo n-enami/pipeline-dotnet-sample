@@ -1,3 +1,8 @@
+本リポジトリのコンテンツは以下に移動しました。
+https://github.com/IBMDeveloperTokyo/cicd-dotnet-sample
+
+このリポジトリ自体は残しておきますが、今後の更新は上記サイトで行われます。ご承知おきください。
+
 # OpenShift 初めてのPipeline ハンズオン
 
 ## 前提条件
